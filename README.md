@@ -40,8 +40,5 @@ Currently exploring the blend of **Web Development**, **Java**, and **AI/ML** �
 
 ---
 
-### 📫 Connect With Me
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com)  
-- 📧 Email: youremail@example.com
 
 ---
