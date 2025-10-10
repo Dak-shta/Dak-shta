@@ -39,6 +39,10 @@ Currently exploring the blend of **Web Development**, **Java**, and **AI/ML** �
 > “Keep learning, keep building, and keep growing — every line of code counts.”
 
 ---
+## 📊 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshta&layout=compact&theme=default" alt="Most Used Languages" />
+</p>
 
 
 ---
