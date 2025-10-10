@@ -1,27 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Dakshta</h1>
 
-<!--
-**Dak-shta/Dak-shta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 B.Tech Student | Aspiring Developer | AI/ML Enthusiast
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 About Me
+I'm a passionate learner who loves turning ideas into real-world tech projects.  
+Currently exploring the blend of **Web Development**, **Java**, and **AI/ML** — building skills step by step while creating meaningful projects.
 
-<p>A passionate AIML Enthusiastic!</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
-<a target="_blank" href="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="display: inline-block;"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/Dakshta Kulshreshtha" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+---
+
+### 🧠 What I'm Learning
+- HTML, CSS & JavaScript — building interactive web interfaces  
+- Java — mastering core concepts and DSA  
+- Python — using it for AI/ML fundamentals  
+- AI & Machine Learning — exploring models and data-driven solutions  
+
+---
+
+### ⚡ Current Focus
+- Strengthening problem-solving through **DSA**  
+- Developing small web + AI integrated projects  
+- Building a foundation for future **Full Stack** and **AI-driven** applications  
+
+---
+
+### 🎯 Goals
+- Gain strong command over DSA & Java  
+- Build end-to-end web projects using modern technologies  
+- Dive deeper into Machine Learning & Real-World AI applications  
+- Work on impactful open-source and community projects  
+
+---
+
+### ✨ Motto
+> “Keep learning, keep building, and keep growing — every line of code counts.”
+
+---
+
+### 📫 Connect With Me
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com)  
+- 📧 Email: youremail@example.com
+
+---
