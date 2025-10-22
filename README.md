@@ -40,6 +40,6 @@ Currently exploring the blend of **Web Development**, **Java**, and **AI/ML** â€
 
 ---
 
-
+[![An image of @dakshta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dakshta)](https://holopin.io/@dakshta)
 
 ---
