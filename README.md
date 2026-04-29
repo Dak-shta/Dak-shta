@@ -15,7 +15,8 @@ Currently exploring the blend of **Web Development**, **Java**, and **AI/ML** �
 ### 🧠 What I'm Learning
 - HTML, CSS & JavaScript — building interactive web interfaces  
 - Java — mastering core concepts and DSA  
-- Python — using it for AI/ML fundamentals  
+- Python — using it for AI/ML fundamentals
+- Django & FastApi
 - AI & Machine Learning — exploring models and data-driven solutions  
 
 ---
